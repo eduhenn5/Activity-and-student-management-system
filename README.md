@@ -1,7 +1,7 @@
 # Activity-and-student-management-system
 Simple activity and student management system, you can register and remove students and activities
 
-The main file that must be executed is SistemaGestaoSwing
+The main file that must be executed is SistemaGestaoSwing.java
 
 Important!!!
 JDK Java must be installed on your machine
